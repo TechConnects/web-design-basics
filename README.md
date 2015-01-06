@@ -1,5 +1,14 @@
 Web Design Basics
 =================
+
+| **Current Courses Offered** | 
+|:-----------------|
+| [Web Design Basics 1: HTML] (https://github.com/TechConnects/web-design-basics/tree/master/html) |
+| Web Design Basics 2: CSS |
+| Web Design Basics 3: Programming Foundations with JavaScript |
+| Getting Started with WordPress |
+| Beginning WordPress Development |
+
 ####Resources
 
 #####Text Editors
