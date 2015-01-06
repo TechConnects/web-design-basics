@@ -8,17 +8,20 @@ Learn how to build the basic structure of a website with HTML (Hyper Text Markup
 [**link to Handout**]
 (#)
 
-####Agenda
+#####Agenda
 
-|**Learning Objectives**| Time 60 min |
-
-|:---------------|:-----------------:|
+|60 min| **Learning Objectives:** *students will* |
+|:---------------|:-----------------|
 | 1. | Write their first line of code and see it in the browser |
 | 2. | Become acquainted with HTML in the browser |
 | 3. | Discover several free text editors |
 | 4. | Learn how to use a plain text editor to write code and see it in the browser |
 | 5. | Create tags to markup text: headline and paragraph |
 | 6. | Link to other pages and websites and add attributes to tags: anchor tags |
-| 7. | 7.	Add images: image tags |
-| 8. | 8.	Add non-syntactic tags: line breaks and horizontal rules |
-| 29. | 9.	Get additional resources and learn where to go from here |
+| 7. | Add images: image tags |
+| 8. | Add non-syntactic tags: line breaks and horizontal rules |
+| 9. | Get additional resources and learn where to go from here |
+
+#####Additional Resources
+
+#####Where to Go from Here
