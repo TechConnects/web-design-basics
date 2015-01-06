@@ -12,15 +12,13 @@ Learn how to style a website with CSS (Cascading Style Sheets). Topics include: 
 
 |60 min| **Learning Objectives:** *students will* |
 |:---------------|:-----------------|
-| 1. |  |
-| 2. |  |
-| 3. |  |
-| 4. |  |
-| 5. |  |
-| 6. |  |
-| 7. |  |
-| 8. |  |
-| 9. | Get additional resources and learn where to go from here |
+| 1. | Start writing CSS with inline styles |
+| 2. | Link CSS to HTML |
+| 3. | Target HTML elements and change modify styles |
+| 4. | Learn the anatomy of CSS rule: selector, attribute and value |
+| 5. | Target HTML with ID and class selectors |
+| 6. | Learn basic layout techniques with the box model  |
+| 7. | Get additional resources and learn where to go from here |
 
 ####Additional Resources
 [W3Schools CSS Tag Reference] (http://www.w3schools.com/cssref/default.asp)
