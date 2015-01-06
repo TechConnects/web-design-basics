@@ -5,7 +5,7 @@ Web Design Basics: HTML
 
 Learn how to build the basic structure of a website with HTML (Hyper Text Markup Language). Topics include: using a text editor; displaying content in a web browser; adding page elements: pictures, links, and form tables; and HTML best practices.
 
-[**link to Handout**]
+[**Link to Handout**]
 (https://docs.google.com/document/d/1n0yUVIv8kt_iL2jD6Sm7YtheYIW0ziv3Y7d7D0labb4/edit?usp=sharing)
 
 ####Agenda
