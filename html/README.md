@@ -23,9 +23,11 @@ Learn how to build the basic structure of a website with HTML (Hyper Text Markup
 | 9. | Get additional resources and learn where to go from here |
 
 ####Additional Resources
+[W3Schools HTML Tag Reference] (http://www.w3schools.com/tags/default.asp )
+
 For more resources try Treehouse
-- [How to make a website (includes CSS):] (http://teamtreehouse.com/library/how-to-make-a-website)
-- [HTML Deep Dive:] (http://teamtreehouse.com/library/html)
+- [How to make a website (includes CSS)] (http://teamtreehouse.com/library/how-to-make-a-website)
+- [HTML Deep Dive] (http://teamtreehouse.com/library/html)
 
 ####Where to Go from Here
 Advanced HTML topics include
