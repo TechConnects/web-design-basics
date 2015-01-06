@@ -11,7 +11,7 @@ Learn how to build the basic structure of a website with HTML (Hyper Text Markup
 ####Agenda
 
 |**Learning Objectives**| Time 60 min |
-|students will|:----------:|
+
 |:---------------|:-----------------:|
 | 1. | Write their first line of code and see it in the browser |
 | 2. | Become acquainted with HTML in the browser |
