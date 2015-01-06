@@ -8,7 +8,7 @@ Learn how to build the basic structure of a website with HTML (Hyper Text Markup
 [**link to Handout**]
 (#)
 
-#####Agenda
+####Agenda
 
 |60 min| **Learning Objectives:** *students will* |
 |:---------------|:-----------------|
@@ -22,6 +22,6 @@ Learn how to build the basic structure of a website with HTML (Hyper Text Markup
 | 8. | Add non-syntactic tags: line breaks and horizontal rules |
 | 9. | Get additional resources and learn where to go from here |
 
-#####Additional Resources
+####Additional Resources
 
-#####Where to Go from Here
+####Where to Go from Here
