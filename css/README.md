@@ -27,9 +27,9 @@ Learn how to style a website with CSS (Cascading Style Sheets). Topics include: 
 
 For more resources try Treehouse
 - [How to make a website (includes HTML)] (http://teamtreehouse.com/library/how-to-make-a-website)
-- [CSS Deep Dive] ()
+- [CSS Deep Dive] (http://teamtreehouse.com/library/css-basics )
 
 ####Where to Go from Here
 Advanced CSS topics include
-- [CSS] ()
-- [CSS] ()
+- [Responsive Design] (http://teamtreehouse.com/library/build-a-responsive-website )
+
