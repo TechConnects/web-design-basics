@@ -6,7 +6,7 @@ Web Design Basics 2: CSS
 Learn how to style a website with CSS (Cascading Style Sheets). Topics include: linking styles to an HTML file, targeting and styling HTML elements, positing schema, and CSS best practices.
 
 [**Link to Handout**]
-()
+(https://docs.google.com/document/d/1HENeI3L3FZRlHedVQxKoZ99rjgZPsFo05Uc9g7FwM1M/edit?usp=sharing)
 
 ####Agenda
 
