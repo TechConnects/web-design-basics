@@ -1,4 +1,4 @@
-Web Design Basics 1: CSS
+Web Design Basics 2: CSS
 =================
 
 ####Description
