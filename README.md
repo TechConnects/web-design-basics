@@ -11,6 +11,11 @@ Web Design Basics
 
 ####Resources
 
+#####Treehouse
+Library Card Holders have free access to Treehouse, an online video and interactive learning platform that teaches people how to design and develop websites and mobile apps.
+
+To sign up for an account, please visit the [Library's website] (http://www.lfpl.org/treehouse/) and click **New User Signup**.
+
 #####Text Editors
 [Brackets] (http://brackets.io/)
 
