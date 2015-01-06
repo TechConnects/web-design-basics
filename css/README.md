@@ -23,7 +23,7 @@ Learn how to style a website with CSS (Cascading Style Sheets). Topics include: 
 | 9. | Get additional resources and learn where to go from here |
 
 ####Additional Resources
-[W3Schools HTML Tag Reference] (http://www.w3schools.com/cssref/default.asp)
+[W3Schools CSS Tag Reference] (http://www.w3schools.com/cssref/default.asp)
 
 For more resources try Treehouse
 - [How to make a website (includes HTML)] (http://teamtreehouse.com/library/how-to-make-a-website)
