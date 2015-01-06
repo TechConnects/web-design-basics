@@ -1,4 +1,4 @@
-Web Design Basics: HTML
+Web Design Basics 1: HTML
 =================
 
 ####Description
