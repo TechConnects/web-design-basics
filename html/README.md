@@ -14,7 +14,7 @@ Learn how to build the basic structure of a website with HTML (Hyper Text Markup
 |:---------------|:-----------------|
 | 1. | Write their first line of code and see it in the browser |
 | 2. | Become acquainted with HTML in the browser |
-| 3. | Discover several free text editors |
+| 3. | Discover several free [text editors] (https://github.com/TechConnects/web-design-basics#text-editors) |
 | 4. | Learn how to use a plain text editor to write code and see it in the browser |
 | 5. | Create tags to markup text: headline and paragraph |
 | 6. | Link to other pages and websites and add attributes to tags: anchor tags |
@@ -23,5 +23,11 @@ Learn how to build the basic structure of a website with HTML (Hyper Text Markup
 | 9. | Get additional resources and learn where to go from here |
 
 ####Additional Resources
+For more resources try Treehouse
+- [How to make a website (includes CSS):] (http://teamtreehouse.com/library/how-to-make-a-website)
+- [HTML Deep Dive:] (http://teamtreehouse.com/library/html)
 
 ####Where to Go from Here
+Advanced HTML topics include
+- [HTML Forms] (http://teamtreehouse.com/library/html-forms)
+- [HTML Tables] (http://teamtreehouse.com/library/html-tables)
