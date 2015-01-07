@@ -29,4 +29,4 @@ For more resources try Treehouse
 ####Where to Go from Here
 Advanced Javascript topics include
 - [Interactive Web Pages] (http://teamtreehouse.com/library/interactive-web-pages-with-javascript  )
-- [jQuery Framework (http://teamtreehouse.com/library/jquery-basics  ) 
+- [jQuery Framework] (http://teamtreehouse.com/library/jquery-basics  ) 
