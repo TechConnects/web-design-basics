@@ -7,7 +7,7 @@ Web Design Basics
 | [Web Design Basics 2: CSS] (https://github.com/TechConnects/web-design-basics/tree/master/css) |
 | [Web Design Basics 3: Programming Foundations with JavaScript] (https://github.com/TechConnects/web-design-basics/tree/master/javascript) |
 | [Web Design Special Topics: Getting Started with WordPress] (https://github.com/TechConnects/web-design-basics/tree/master/intro-to-wordpress) |
-| Web Design Special Topics: Beginning WordPress Development |
+| [Web Design Special Topics: Beginning WordPress Development] (https://github.com/TechConnects/web-design-basics/tree/master/wordpress-development) |
 
 ####Resources
 
