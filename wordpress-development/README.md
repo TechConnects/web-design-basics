@@ -23,6 +23,7 @@ Get a more in depth look at WordPress and learn how to customize your own websit
 
 ####Getting Started
 - [Cloud9] (https://c9.io/)
+- [Running WordPress on C9] (https://docs.c9.io/running_wordpress_on_cloud9.html)
 - [WordPress.org] (https://wordpress.org/)
 
 ####Additional Resources
@@ -33,6 +34,6 @@ For more resources try Treehouse
 - [WordPress Theme Developement] (http://teamtreehouse.com/library/wordpress-theme-development )
 
 ####Where to Go from Here
-Advanced CSS topics include
+Advanced WordPress topics include
 - [PHP Basics] (http://teamtreehouse.com/library/php-basics) 
 - [From Bootstrap to WordPress Tutorial] (http://teamtreehouse.com/library/from-bootstrap-to-wordpress)
