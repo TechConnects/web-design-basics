@@ -35,6 +35,6 @@ For more resources try Treehouse
 - [WordPress.com Sites] (http://teamtreehouse.com/library/great-wordpresscom-websites)
 
 ####Where to Go from Here
-Advanced CSS topics include
+Advanced WordPress topics include
 - [How to build a blog without coding (Hosted WordPress Site)] (http://teamtreehouse.com/library/how-to-build-a-wordpress-blog-without-coding)
 
