@@ -6,7 +6,7 @@ Web Design Special Topics: WordPress Development
 Get a more in depth look at WordPress and learn how to customize your own website. Topics include: creating a local web server, installing WordPress, folder and file hierarchy, and theme installation and customization. Having a basic understanding of HTML, CSS, and JavaScript is helpful, but not required.
 
 [**Link to Handout**]
-()
+(https://docs.google.com/document/d/1Y2iCz4a8hILNEv2l7qn_zMH7Sn4aOLu8EaxD5k-XJsw/edit?usp=sharing)
 
 ####Agenda
 
