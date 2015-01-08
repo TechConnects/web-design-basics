@@ -31,7 +31,7 @@ Get a more in depth look at WordPress and learn how to customize your own websit
 
 For more resources try Treehouse
 - [Local WordPress Development] (http://teamtreehouse.com/library/local-wordpress-development )
-- [WordPress Theme Developement] (http://teamtreehouse.com/library/wordpress-theme-development )
+- [WordPress Theme Development] (http://teamtreehouse.com/library/wordpress-theme-development )
 
 ####Where to Go from Here
 Advanced WordPress topics include
