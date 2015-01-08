@@ -28,7 +28,7 @@ Discover how to use the popular WordPress Content Management System (CMS) to cre
 
 ####Additional Resources
 - [WordPress blog and educational Resources] (http://en.support.wordpress.com/ )
-- [Video Quick Start] (http://en.support.wordpress.com/video-quick-start/ )
+- [Quick Start Videos] (http://en.support.wordpress.com/video-quick-start/ )
 
 For more resources try Treehouse
 - [Getting Started with WordPress] (http://teamtreehouse.com/library/getting-started-with-wordpress)
