@@ -6,7 +6,7 @@ Web Design Special Topics: Introduction to WordPress
 Discover how to use the popular WordPress Content Management System (CMS) to create your own blog or website. Topics include: differences between WordPress.com and WordPress.org, introduction to the WordPress dashboard, creating pages, adding content and media, and publishing a WordPress Site.
 
 [**Link to Handout**]
-()
+(https://docs.google.com/document/d/1-mwdr0XIdgywHLyKz0Uj4jjbTmdfR9NHxjRPf0TS0L0/edit?usp=sharing)
 
 ####Agenda
 
