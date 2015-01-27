@@ -12,14 +12,13 @@ Get a more in depth look at WordPress and learn how to customize your own websit
 
 |60 min| **Learning Objectives:** *students will* |
 |:---------------|:-----------------|
-| 1.  | Recognize the difference between dynamic and static sites |
+| 1.  | Understand the Key differences between WP.com and WP.org |
 | 2.  | Learn how to develop locally |
-| 3.  | Configure a Cloud9 virtual machine and install WordPress |
-| 4 . | Get a quick PHP tutorial |
-| 5.  | Creating a theme folder and include CSS and JS via functions.php |
-| 6.  | Dynamically include headers and footers |
-| 7.  | Discover the WP template hierarchy  |
-| 8.  | Get additional resources and learn where to go from here |
+| 3.  | Configure a Cloud9 virtual machine, WordPress, and install a MySQL database to simulate deploying WP site |
+| 4.  | Explore the WP template hierarchy  |
+| 5.  | Learn the additional features available with a WordPress.org site: plugins, additional themes, file control |
+| 6.  | Learn how to operate a self-hosted WP.org site similarly to WP.com site |
+| 7.  | Get additional resources and learn where to go from here |
 
 ####Getting Started
 - [Cloud9] (https://c9.io/)
@@ -31,9 +30,9 @@ Get a more in depth look at WordPress and learn how to customize your own websit
 
 For more resources try Treehouse
 - [Local WordPress Development] (http://teamtreehouse.com/library/local-wordpress-development )
-- [WordPress Theme Development] (http://teamtreehouse.com/library/wordpress-theme-development )
+- [Moving from WP.com to Self-Hosted WP.org Site] (http://teamtreehouse.com/library/moving-from-wordpresscom-to-selfhosted-wordpressorg )
 
 ####Where to Go from Here
 Advanced WordPress topics include
 - [PHP Basics] (http://teamtreehouse.com/library/php-basics) 
-- [From Bootstrap to WordPress Tutorial] (http://teamtreehouse.com/library/from-bootstrap-to-wordpress)
+- [WordPress Theme Development] (http://teamtreehouse.com/library/wordpress-theme-development )
