@@ -14,7 +14,7 @@ Get a more in depth look at WordPress and learn how to customize your own websit
 |:---------------|:-----------------|
 | 1.  | Understand the Key differences between WP.com and WP.org |
 | 2.  | Learn how to develop locally |
-| 3.  | Configure a Cloud9 virtual machine, WordPress, and install a MySQL database to simulate deploying WP site |
+| 3.  | Configure a Cloud9 virtual machine, install WordPress, and setup a MySQL database to simulate deploying WP site |
 | 4.  | Explore the WP template hierarchy  |
 | 5.  | Learn the additional features available with a WordPress.org site: plugins, additional themes, file control |
 | 6.  | Learn how to operate a self-hosted WP.org site similarly to WP.com site |
